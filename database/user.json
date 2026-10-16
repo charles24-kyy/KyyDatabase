@@ -367,5 +367,32 @@
     "joinedAt": "2026-10-14T12:59:50.433Z",
     "lastSeenAt": "2026-10-14T12:59:50.436Z",
     "startCount": 2
+  },
+  "7254674306": {
+    "id": 7254674306,
+    "username": "tzuyashop",
+    "first_name": "ꂦꎇꎇꉓ ꓄ꁴꀎꌩꍏ ꌗꃅꂦꉣ",
+    "last_name": null,
+    "joinedAt": "2026-10-16T12:28:52.603Z",
+    "lastSeenAt": "2026-10-16T12:29:50.356Z",
+    "startCount": 3
+  },
+  "8644569003": {
+    "id": 8644569003,
+    "username": null,
+    "first_name": "𝑹𝑨𝑭𝑨𝑬𝑳𝑿𝒁",
+    "last_name": "𝑮𝑨𝑵𝑻𝑬𝑵𝑮",
+    "joinedAt": "2026-10-16T12:28:53.201Z",
+    "lastSeenAt": "2026-10-16T12:28:53.536Z",
+    "startCount": 2
+  },
+  "7622018485": {
+    "id": 7622018485,
+    "username": "WANZOF",
+    "first_name": "WANZ OFFLINE",
+    "last_name": null,
+    "joinedAt": "2026-10-16T12:28:53.537Z",
+    "lastSeenAt": "2026-10-16T12:28:53.787Z",
+    "startCount": 2
   }
 }
