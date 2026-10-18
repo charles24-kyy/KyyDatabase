@@ -2,7 +2,15 @@
   "WIZZ-C721FCC0": {
     "amount": 20,
     "maxUses": 20,
-    "usedBy": [],
+    "usedBy": [
+      1521357018
+    ],
     "createdAt": "2026-10-18T09:33:05.685Z"
+  },
+  "WIZZ-B6E745C3": {
+    "amount": 999999,
+    "maxUses": 50,
+    "usedBy": [],
+    "createdAt": "2026-10-18T09:34:51.790Z"
   }
 }
