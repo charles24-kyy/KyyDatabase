@@ -68,8 +68,8 @@
     "first_name": "⏤͟͟͞͞ 𝘼𝙣𝙣?'ₑᵥₒₘₐCₕₐ $𝐊𖥕𝑭 ꪶ𝓵𝓮𝓰𝓮𝓷𝓭𝓼𝟏𝟔𝟔",
     "last_name": null,
     "joinedAt": "2026-10-18T09:31:13.054Z",
-    "lastSeenAt": "2026-10-18T09:31:13.054Z",
-    "startCount": 1
+    "lastSeenAt": "2026-10-18T09:36:12.180Z",
+    "startCount": 5
   },
   "1528945727": {
     "id": 1528945727,
@@ -412,5 +412,14 @@
     "joinedAt": "2026-10-16T12:28:53.537Z",
     "lastSeenAt": "2026-10-16T12:28:53.787Z",
     "startCount": 2
+  },
+  "6902285772": {
+    "id": 6902285772,
+    "username": "ManganKopdes",
+    "first_name": "✇ 𝐆𝐑𝐎𝐊 $𝐊𖥕𝑭 ✇",
+    "last_name": null,
+    "joinedAt": "2026-10-18T09:36:13.334Z",
+    "lastSeenAt": "2026-10-18T09:36:13.334Z",
+    "startCount": 1
   }
 }
