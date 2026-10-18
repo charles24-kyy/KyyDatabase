@@ -768,5 +768,40 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-10-18T09:30:48.135Z"
+  },
+  {
+    "userId": 1521357018,
+    "type": "earn",
+    "amount": 20,
+    "reason": "Redeem voucher",
+    "at": "2026-10-18T09:34:26.217Z"
+  },
+  {
+    "userId": 6902285772,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-10-18T09:36:13.333Z"
+  },
+  {
+    "userId": 6902285772,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-10-18T09:37:00.732Z"
+  },
+  {
+    "userId": 6902285772,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (ZIP)",
+    "at": "2026-10-18T09:37:44.853Z"
+  },
+  {
+    "userId": 8871249786,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-10-18T09:41:18.421Z"
   }
 ]
